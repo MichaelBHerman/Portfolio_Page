@@ -10,7 +10,7 @@
     box-sizing: border-box;
     text-decoration: none;
     outline: none; border:none;
-    text-transform: capitalize;
+    
     transition: all .2s linear;
 }
 
@@ -333,9 +333,9 @@ header .navbar ul li a:hover{
     width:100%;
 }
 
-.contact .row form .box::placeholder{
+/* .contact .row form .box::placeholder{
     text-transform: capitalize;
-}
+} */
 
 .contact .row form .message{
     height: 15rem;
